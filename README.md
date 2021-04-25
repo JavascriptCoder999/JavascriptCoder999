@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JavascriptCoder999
 - 👀 I’m interested in coding scratch, html and javascript
-- 🌱 I’m currently learning shell
+- 🌱 I’m currently learning c#
 - 💞️ I’m looking to collaborate on game projects and other cool stuff
 
 <!---
