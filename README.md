@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @JavascriptCoder999
+```- 👋 Hi, I’m @JavascriptCoder999
 - 👀 I’m interested in coding scratch, html and javascript
 - 🌱 I’m currently learning c#
 - 💞️ I’m looking to collaborate on game projects and other cool stuff
 - 😀**bitbucket** *https://bitbucket.org/draggable-dragon_28/*
 - 😀**dockerhub** *https://hub.docker.com/u/mousewheel7*
 - thank you for following me (***`@lastsandwich`, `@mikevenforgithub`, `@code598`, `@code44598`, `@code-e3` and `@caringtiger`***!)
-
+```
 `i think bitcoins will change the world in time`
 <!---
 JavascriptCoder999/JavascriptCoder999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
