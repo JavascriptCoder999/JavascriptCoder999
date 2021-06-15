@@ -1,4 +1,4 @@
-```arm
+
 - 👋 Hi, I’m @JavascriptCoder999
 - 👀 I’m interested in coding scratch, html and javascript
 - 🌱 I’m currently learning c#
@@ -6,7 +6,6 @@
 - 😀**bitbucket** *https://bitbucket.org/draggable-dragon_28/*
 - 😀**dockerhub** *https://hub.docker.com/u/mousewheel7*
 - thank you for following me (***`@lastsandwich`, `@mikevenforgithub`, `@code598`, `@code44598`, `@code-e3` and `@caringtiger`***!)
-```
 ```ml
 discord:
 mouseWheel77 #8083
