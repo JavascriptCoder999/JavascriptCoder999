@@ -15,7 +15,7 @@ ADD ME PLEASE
 
 ~~why is this text in strikethrough?~~
 
-```diff
+```fix
 -i also hate how markdown needs you to enter twice
 ```
 <!---
