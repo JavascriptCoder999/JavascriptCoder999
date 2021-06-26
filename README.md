@@ -18,6 +18,8 @@ ADD ME PLEASE
 ```diff
 -i also hate how markdown needs you to enter twice
 ```
+> i am now on blue belt in my coding course (stage 5 out of 9)
+>> wow
 <!---
 JavascriptCoder999/JavascriptCoder999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
