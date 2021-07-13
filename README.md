@@ -17,6 +17,7 @@ ADD ME PLEASE
 
 ```diff
 -i also hate how markdown needs you to enter twice
++wow
 ```
 > i am now on blue belt in my coding course (stage 5 out of 9)
 >> wow
