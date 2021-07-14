@@ -23,6 +23,9 @@ ADD ME PLEASE
 ```diff
 +spotify: ducko'bama_961
 ```
+```brainfuck
+If you follow me i will follow you back
+```
 <!---
 JavascriptCoder999/JavascriptCoder999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
