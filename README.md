@@ -17,6 +17,8 @@ ADD ME PLEASE
 
 ```diff
 -i also hate how markdown needs you to enter twice
++i don't like it
+!i think that is only for discord
 ```
 > i am now on blue belt in my coding course (stage 5 out of 9)
 >> wow
