@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on game projects and other cool stuff
 - 😀**bitbucket** *https://bitbucket.org/draggable-dragon_28/*
 - 😀**dockerhub** *https://hub.docker.com/u/mousewheel7*
-- thank you for following me (***`@lastsandwich`, `@mikevenforgithub`, `@code598`, `@code44598`, `@code-e3` and `@caringtiger`***!)
+- thank you for following me (***`@lastsandwich`, `@mikevenforgithub`, `@code598`, `@code44598`, `@code-e3`, `@caringtiger`, `liobrasil` and `mechoutayoub`***!)
 ```ml
 discord:
 mouseWheel77 #8083
