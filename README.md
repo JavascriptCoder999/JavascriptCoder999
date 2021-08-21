@@ -9,7 +9,6 @@
 - 💞️ I’m looking to collaborate on game projects and other cool stuff
 - 😀find me on --[**`Bitbucket`**](https://bitbucket.org/draggable-dragon_28/ 'Bit')
   - 😀Find me on --[**`Docker Hub`** *`Lost access to account because I forgot my Docker ID`*](https://hub.docker.com/u/mousewheel7 'Dock') 
-  
 ~~dang~~
 - thank you for following me (***`@lastsandwich`, `@mikevenforgithub`, `@code598`, `@code44598`, `@code-e3`, `@caringtiger`, `liobrasil` and `mechoutayoub`***!)
 ```ml
