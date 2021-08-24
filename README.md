@@ -20,6 +20,9 @@ ADD ME PLEASE
 
 ~~why is this text in strikethrough?~~
 
+- [ ] hello
+
+- [ ] if you read this tick the box
 ```diff
 -i also hate how markdown needs you to enter twice
 +i don't like it
