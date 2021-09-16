@@ -10,7 +10,7 @@
 - 😀find me on --[**`Bitbucket`**](https://bitbucket.org/draggable-dragon_28/ 'Bit')
   - 😀Find me on --[**`Docker Hub`** *`Lost access to account because I forgot my Docker ID`*](https://hub.docker.com/u/mousewheel7 'Dock') 
 ~~dang~~
-- thank you for following me (***`@lastsandwich`, `@mikevenforgithub`, `@code598`, `@code44598`, `@code-e3`, `@caringtiger`, `liobrasil` and `mechoutayoub`***!)
+- thank you for following me (***`@lastsandwich`, `@mikevenforgithub`, `@code598`, `@code44598`, `@code-e3`, `@caringtiger`, `liobrasil`, `mechoutayoub`, `AmirhoseinHesami` and `Gabrielcsg19`***!)
 ```ml
 discord:
 mouseWheel77 #8083
