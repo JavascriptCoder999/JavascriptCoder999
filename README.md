@@ -3,9 +3,9 @@
 >> > ![alt](https://avatars.githubusercontent.com/u/81769195?s=48&v=4 "my profile PiCtUrE")
 >> > 
 >>> ![alt](https://avatars.githubusercontent.com/u/81769195?s=48&v=4 "my profile PiCtUrE")
-- 👋 Hi, I’m @JavascriptCoder999
-- 👀 I’m interested in coding scratch, html and javascript
-- 🌱 I’m currently learning c#
+- 👋 Hi, I’m @JavascriptCoder999, a kid from Earth
+- 👀 I’m interested in coding scratch, html, javascript psuedocode and lua.
+- 🌱 I’m currently learning lua for Roblox Studio
 - 💞️ I’m looking to collaborate on game projects and other cool stuff
 - 😀find me on --[**`Bitbucket`**](https://bitbucket.org/draggable-dragon_28/ 'Bit')
   - 😀Find me on --[**`Docker Hub`** *`Lost access to account because I forgot my Docker ID`*](https://hub.docker.com/u/mousewheel7 'Dock') 
