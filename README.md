@@ -10,7 +10,8 @@
 - 😲 telekinetic, pyrokinetic, aerokinetic, hydrokinetic, electrokinetic, thermokinetic and telepathic. Bro I'm a psychic
 - 😀 DISCORD - mouseWheel77 #8083
   - 😀 fan of Uri Geller and the paranormal//supernatural 
-~~dang~~
+  - 
+~~~~
 - thank you for following me (***`@lastsandwich`, `@mikevenforgithub`, `@code598`, `@code44598`, `@code-e3`, `@caringtiger`, `liobrasil`, `mechoutayoub`, `AmirhoseinHesami`,  `Gabrielcsg19` and `CrazyIndianDeveloper`****!*)
 ```ml
 discord:
