@@ -4,7 +4,8 @@
 >> > 
 >>> ![alt](https://f4.bcbits.com/img/a1725317506_5.jpg "my profile PiCtUrE")
 >>> >>> ![alt](https://chillhop.com/wp-content/uploads/2020/08/3a92d38d5b2605bb47bbd4593e61cfd17ca7cf98.jpg "my profile PiCtUrE")
-- 👋 Hi, I’m @JavascriptCoder999, a kid born into the world of technology from Earth
+- 👋 Hi, I’m @JavascriptCoder999, a kid born into the world of technology
+- 🌐 I live on Earth
 - 👀 Big fan [chillhop.com](chillhop.com), best music out there
 - 🌱 I’m currently learning lua for Roblox Studio
 - 😲 telekinetic, pyrokinetic, aerokinetic, hydrokinetic, electrokinetic, thermokinetic and telepathic, biothermokinetic and able to teleport. Bro I'm a psychic
